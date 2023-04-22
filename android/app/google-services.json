@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "102469305474",
+    "project_id": "fakestore-ffe45",
+    "storage_bucket": "fakestore-ffe45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102469305474:android:0c7ac1eac1b7e561c1209b",
+        "android_client_info": {
+          "package_name": "com.etec.fake_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102469305474-84omg6rev4m0ccnfet8cgo8d9lm5ihis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etec.fake_store",
+            "certificate_hash": "c245eca582ab971eaec96c60b3375d024a07f96b"
+          }
+        },
+        {
+          "client_id": "102469305474-e40biegf18nh1fvtjebnqfn8a00dj6tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2IRPjD11uQr4IaQjGZj28-vniRK6BciM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102469305474-e40biegf18nh1fvtjebnqfn8a00dj6tf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102469305474-kobedrkkv7a8u15hurmg3tv4h4oq5041.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.etec.fakeStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
